@@ -1,5 +1,6 @@
 # BattleshipGame
 Developed for MIDS Project1 in Fall 2018 by Steve Dille
+sdille@berkeley.edu
 
 
 Background:
@@ -15,9 +16,7 @@ You really want to run this game in Terminal and I am giving you the .py file.  
 window so you can’t see the whole progression of the game very well and the matrices all at once.  
 
 Observations and Improvements:
-The first question my 14 year old asked me was will the computer try and shoot around the ship when you first get a hit? Fortunately, I had
-just coded that and it was one of the challenges.  I called it the shot optimizer and I made it miss the first shot which would always be 
-adjacent to the hit (just like a human guessing) so the computer would not have an unfair advantage of needing fewer shots to sink the ship.
+The first question my 14 year old asked me was will the computer try and shoot around the ship when you first get a hit? Fortunately, I had just coded that and it was one of the challenges.  I called it the shot optimizer and I made it miss the first shot which would always be adjacent to the hit (just like a human guessing) so the computer would not have an unfair advantage of needing fewer shots to sink the ship.
 
 As I have played more, I found I can beat the computer most of the time, so the game is still tilted towards the human who has a field of 
 view of where the most productive shots might be placed vs. picking random shots. An opportunity for extension would be improving the shot 
